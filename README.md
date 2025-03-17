@@ -1,2 +1,15 @@
 # Secure-Login-System-HTML-CSS-JavaScript-SQL-
 A secure web-based authentication system with hashed passwords and user roles (admin/user). Enhances login security for web apps.
+### **Tech Stack**
+- HTML, CSS, JavaScript
+- SQL
+- bcrypt for password hashing
+
+### **Installation & Usage**
+```bash
+# Clone the repository
+git clone
+cd Secure-Login
+
+# Start the local server
+python -m http.server 8080

@@ -17,7 +17,7 @@ A secure web-based authentication system with hashed passwords and user roles (a
 ### **Installation & Usage**
 ```bash
 # Clone the repository
-git clone https://github.com/yourgithub/Secure-Login.git
+git clone [https://github.com/yourgithub/Secure-Login.git](https://github.com/JonathanM-Roman/Secure-Login-System-HTML-CSS-JavaScript-SQL-.git)
 cd Secure-Login
 
 # Start the local server

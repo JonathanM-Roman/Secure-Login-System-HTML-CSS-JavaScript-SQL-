@@ -1,5 +1,14 @@
-# Secure-Login-System-HTML-CSS-JavaScript-SQL-
+## **4️⃣ Secure Login System (HTML/CSS/JavaScript, SQL) 🔑**
+
+### **Description**
 A secure web-based authentication system with hashed passwords and user roles (admin/user). Enhances login security for web apps.
+
+## Screenshot
+![Firewall Setup](screenshots/secure-login-system-registration.PNG)
+![Firewall Setup](screenshots/secure-login-system-login.PNG)
+![Firewall Setup](screenshots/secure-login-system-dashboard.PNG)
+
+
 ### **Tech Stack**
 - HTML, CSS, JavaScript
 - SQL
@@ -8,7 +17,7 @@ A secure web-based authentication system with hashed passwords and user roles (a
 ### **Installation & Usage**
 ```bash
 # Clone the repository
-git clone
+git clone https://github.com/yourgithub/Secure-Login.git
 cd Secure-Login
 
 # Start the local server
